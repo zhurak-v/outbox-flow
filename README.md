@@ -26,7 +26,7 @@ The unreliable part (network, broker, other services) is moved out of the busine
 
 ---
 
-## What outbox-flow consists of
+## What outbox-flow consists of[composer.json](composer.json)
 
 ### Core service
 

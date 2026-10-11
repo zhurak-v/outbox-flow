@@ -2,7 +2,7 @@
   "name": "outbox-flow/server",
   "type": "project",
   "description": "Outbox Flow Server",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "require": {
     "php": "^8.4",
     "ext-ctype": "*",
