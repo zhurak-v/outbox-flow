@@ -8,6 +8,8 @@
     "ext-ctype": "*",
     "ext-iconv": "*",
     "doctrine/doctrine-migrations-bundle": "^4.0",
+    "php-amqplib/php-amqplib": "^3.7",
+    "ramsey/uuid": "^4.9",
     "symfony/console": "^7.4",
     "symfony/dotenv": "^7.4",
     "symfony/framework-bundle": "^7.4",

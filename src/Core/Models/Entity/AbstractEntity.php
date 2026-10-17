@@ -2,11 +2,12 @@
 
 namespace OutboxFlow\Core\Models\Entity;
 
+use Doctrine\ORM\Mapping;
+
 use DateTimeImmutable;
 use OutboxFlow\Core\Models\Equatable\Equatable;
 use OutboxFlow\Core\Models\Hashable\Hashable;
 
-use Doctrine\ORM\Mapping;
 
 /**
  * @template ID of Hashable & Equatable
